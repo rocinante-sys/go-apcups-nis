@@ -1,0 +1,38 @@
+{
+    "LINEV": {
+        "address": "/mqtt/voltage",
+        "divider": 10,
+        "decimals": 1,
+        "unit": "Volts"
+    },
+    "LOADPCT": {
+        "address": "/mqtt/load",
+        "divider": 10,
+        "decimals": 1,
+        "unit": "Percent"
+    },
+    "BCHARGE": {
+        "address": "/mqtt/charge",
+        "divider": 10,
+        "decimals": 1,
+        "unit": "Percent"
+    },
+    "TIMELEFT": {
+        "address": "/mqtt/timeleft",
+        "divider": 10,
+        "decimals": 1,
+        "unit": "Minutes"
+    },
+    "BATTV": {
+        "address": "/mqtt/bat_voltage",
+        "divider": 10,
+        "decimals": 1,
+        "unit": "Volts"
+    },
+    "ITEMP": {
+        "address": "/mqtt/temp",
+        "divider": 10,
+        "decimals": 1,
+        "unit": "C"
+    }
+}
